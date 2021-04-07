@@ -1,0 +1,6 @@
+module Pods_NFCexample_NFCexampleTests {
+  umbrella header "Pods-NFCexample-NFCexampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
